@@ -1,4 +1,4 @@
-🛠Tech Stack
+🛠 Tech Stack
 
 Frontend: React.js, TailwindCSS
 
@@ -8,20 +8,24 @@ Database: MongoDB
 
 Authentication: JWT
 
-APIs: External movie/TV APIs
+Version Control: Git & GitHub
 
 ✨ Features (Learning Scope)
 
-User authentication using JWT
+JWT-based user authentication
 
-Movie and TV show browsing interface
+Responsive user interface built with TailwindCSS
+
+Fetching movie and TV show data from external APIs
 
 Search functionality for movies, TV shows, and actors
 
-Watch trailers and view detailed information
+Watching trailers within the application
 
-Maintain basic search history
+Storing and displaying user search history
 
-Responsive UI using TailwindCSS
+Displaying similar movies and TV shows
 
-Secure environment configuration
+Interactive and user-friendly landing page
+
+Basic deployment for learning purposes
